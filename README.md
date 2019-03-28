@@ -1,6 +1,6 @@
 # dsaac_hub
 
- **D**ata **S**tructures **A**lgrithums, and **A**pplications in **C**++
+ **D**ata **S**tructures **A**lgorithms, and **A**pplications in **C**++
  
  * Programs
  
