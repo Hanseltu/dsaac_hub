@@ -13,7 +13,11 @@ CMakeFiles/chapter1.dir/1.5_abcConstRef.cpp.o: ../1.5\ abcConstRef.cpp
 
 CMakeFiles/chapter1.dir/1.6_abcGeneral.cpp.o: ../1.6\ abcGeneral.cpp
 
+CMakeFiles/chapter1.dir/1.7_factorial.cpp.o: ../1.7\ factorial.cpp
+
 CMakeFiles/chapter1.dir/1.7_noSwap.cpp.o: ../1.7\ noSwap.cpp
 
 CMakeFiles/chapter1.dir/1.8_abcExceptionChar.cpp.o: ../1.8\ abcExceptionChar.cpp
+
+CMakeFiles/chapter1.dir/1.8_sum.cpp.o: ../1.8\ sum.cpp
 

@@ -285,6 +285,33 @@ chapter1/fast:
 	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.6_abcGeneral.cpp.s
 .PHONY : 1.6_abcGeneral.cpp.s
 
+1.7_factorial.o: 1.7_factorial.cpp.o
+
+.PHONY : 1.7_factorial.o
+
+# target to build an object file
+1.7_factorial.cpp.o:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.7_factorial.cpp.o
+.PHONY : 1.7_factorial.cpp.o
+
+1.7_factorial.i: 1.7_factorial.cpp.i
+
+.PHONY : 1.7_factorial.i
+
+# target to preprocess a source file
+1.7_factorial.cpp.i:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.7_factorial.cpp.i
+.PHONY : 1.7_factorial.cpp.i
+
+1.7_factorial.s: 1.7_factorial.cpp.s
+
+.PHONY : 1.7_factorial.s
+
+# target to generate assembly for a file
+1.7_factorial.cpp.s:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.7_factorial.cpp.s
+.PHONY : 1.7_factorial.cpp.s
+
 1.7_noSwap.o: 1.7_noSwap.cpp.o
 
 .PHONY : 1.7_noSwap.o
@@ -339,6 +366,60 @@ chapter1/fast:
 	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.8_abcExceptionChar.cpp.s
 .PHONY : 1.8_abcExceptionChar.cpp.s
 
+1.8_sum.o: 1.8_sum.cpp.o
+
+.PHONY : 1.8_sum.o
+
+# target to build an object file
+1.8_sum.cpp.o:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.8_sum.cpp.o
+.PHONY : 1.8_sum.cpp.o
+
+1.8_sum.i: 1.8_sum.cpp.i
+
+.PHONY : 1.8_sum.i
+
+# target to preprocess a source file
+1.8_sum.cpp.i:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.8_sum.cpp.i
+.PHONY : 1.8_sum.cpp.i
+
+1.8_sum.s: 1.8_sum.cpp.s
+
+.PHONY : 1.8_sum.s
+
+# target to generate assembly for a file
+1.8_sum.cpp.s:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.8_sum.cpp.s
+.PHONY : 1.8_sum.cpp.s
+
+1.9_rSum.o: 1.9_rSum.cpp.o
+
+.PHONY : 1.9_rSum.o
+
+# target to build an object file
+1.9_rSum.cpp.o:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.9_rSum.cpp.o
+.PHONY : 1.9_rSum.cpp.o
+
+1.9_rSum.i: 1.9_rSum.cpp.i
+
+.PHONY : 1.9_rSum.i
+
+# target to preprocess a source file
+1.9_rSum.cpp.i:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.9_rSum.cpp.i
+.PHONY : 1.9_rSum.cpp.i
+
+1.9_rSum.s: 1.9_rSum.cpp.s
+
+.PHONY : 1.9_rSum.s
+
+# target to generate assembly for a file
+1.9_rSum.cpp.s:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.9_rSum.cpp.s
+.PHONY : 1.9_rSum.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -366,12 +447,21 @@ help:
 	@echo "... 1.6_abcGeneral.o"
 	@echo "... 1.6_abcGeneral.i"
 	@echo "... 1.6_abcGeneral.s"
+	@echo "... 1.7_factorial.o"
+	@echo "... 1.7_factorial.i"
+	@echo "... 1.7_factorial.s"
 	@echo "... 1.7_noSwap.o"
 	@echo "... 1.7_noSwap.i"
 	@echo "... 1.7_noSwap.s"
 	@echo "... 1.8_abcExceptionChar.o"
 	@echo "... 1.8_abcExceptionChar.i"
 	@echo "... 1.8_abcExceptionChar.s"
+	@echo "... 1.8_sum.o"
+	@echo "... 1.8_sum.i"
+	@echo "... 1.8_sum.s"
+	@echo "... 1.9_rSum.o"
+	@echo "... 1.9_rSum.i"
+	@echo "... 1.9_rSum.s"
 .PHONY : help
 
 

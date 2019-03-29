@@ -161,6 +161,45 @@ CMakeFiles/chapter1.dir/1.8_abcExceptionChar.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/chapter1.dir/1.8_abcExceptionChar.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.8 abcExceptionChar.cpp" -o CMakeFiles/chapter1.dir/1.8_abcExceptionChar.cpp.s
 
+CMakeFiles/chapter1.dir/1.7_factorial.cpp.o: CMakeFiles/chapter1.dir/flags.make
+CMakeFiles/chapter1.dir/1.7_factorial.cpp.o: ../1.7\ factorial.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/chapter1.dir/1.7_factorial.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/chapter1.dir/1.7_factorial.cpp.o -c "/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.7 factorial.cpp"
+
+CMakeFiles/chapter1.dir/1.7_factorial.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/chapter1.dir/1.7_factorial.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.7 factorial.cpp" > CMakeFiles/chapter1.dir/1.7_factorial.cpp.i
+
+CMakeFiles/chapter1.dir/1.7_factorial.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/chapter1.dir/1.7_factorial.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.7 factorial.cpp" -o CMakeFiles/chapter1.dir/1.7_factorial.cpp.s
+
+CMakeFiles/chapter1.dir/1.8_sum.cpp.o: CMakeFiles/chapter1.dir/flags.make
+CMakeFiles/chapter1.dir/1.8_sum.cpp.o: ../1.8\ sum.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/chapter1.dir/1.8_sum.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/chapter1.dir/1.8_sum.cpp.o -c "/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.8 sum.cpp"
+
+CMakeFiles/chapter1.dir/1.8_sum.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/chapter1.dir/1.8_sum.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.8 sum.cpp" > CMakeFiles/chapter1.dir/1.8_sum.cpp.i
+
+CMakeFiles/chapter1.dir/1.8_sum.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/chapter1.dir/1.8_sum.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.8 sum.cpp" -o CMakeFiles/chapter1.dir/1.8_sum.cpp.s
+
+CMakeFiles/chapter1.dir/1.9_rSum.cpp.o: CMakeFiles/chapter1.dir/flags.make
+CMakeFiles/chapter1.dir/1.9_rSum.cpp.o: ../1.9\ rSum.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/chapter1.dir/1.9_rSum.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/chapter1.dir/1.9_rSum.cpp.o -c "/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.9 rSum.cpp"
+
+CMakeFiles/chapter1.dir/1.9_rSum.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/chapter1.dir/1.9_rSum.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.9 rSum.cpp" > CMakeFiles/chapter1.dir/1.9_rSum.cpp.i
+
+CMakeFiles/chapter1.dir/1.9_rSum.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/chapter1.dir/1.9_rSum.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.9 rSum.cpp" -o CMakeFiles/chapter1.dir/1.9_rSum.cpp.s
+
 # Object files for target chapter1
 chapter1_OBJECTS = \
 "CMakeFiles/chapter1.dir/1.1_abcInt.cpp.o" \
@@ -170,7 +209,10 @@ chapter1_OBJECTS = \
 "CMakeFiles/chapter1.dir/1.5_abcConstRef.cpp.o" \
 "CMakeFiles/chapter1.dir/1.6_abcGeneral.cpp.o" \
 "CMakeFiles/chapter1.dir/1.7_noSwap.cpp.o" \
-"CMakeFiles/chapter1.dir/1.8_abcExceptionChar.cpp.o"
+"CMakeFiles/chapter1.dir/1.8_abcExceptionChar.cpp.o" \
+"CMakeFiles/chapter1.dir/1.7_factorial.cpp.o" \
+"CMakeFiles/chapter1.dir/1.8_sum.cpp.o" \
+"CMakeFiles/chapter1.dir/1.9_rSum.cpp.o"
 
 # External object files for target chapter1
 chapter1_EXTERNAL_OBJECTS =
@@ -183,9 +225,12 @@ chapter1: CMakeFiles/chapter1.dir/1.5_abcConstRef.cpp.o
 chapter1: CMakeFiles/chapter1.dir/1.6_abcGeneral.cpp.o
 chapter1: CMakeFiles/chapter1.dir/1.7_noSwap.cpp.o
 chapter1: CMakeFiles/chapter1.dir/1.8_abcExceptionChar.cpp.o
+chapter1: CMakeFiles/chapter1.dir/1.7_factorial.cpp.o
+chapter1: CMakeFiles/chapter1.dir/1.8_sum.cpp.o
+chapter1: CMakeFiles/chapter1.dir/1.9_rSum.cpp.o
 chapter1: CMakeFiles/chapter1.dir/build.make
 chapter1: CMakeFiles/chapter1.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable chapter1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX executable chapter1"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/chapter1.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

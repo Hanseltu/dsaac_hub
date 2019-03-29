@@ -98,10 +98,19 @@
 		<Unit filename="/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.6 abcGeneral.cpp">
 			<Option target="chapter1"/>
 		</Unit>
+		<Unit filename="/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.7 factorial.cpp">
+			<Option target="chapter1"/>
+		</Unit>
 		<Unit filename="/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.7 noSwap.cpp">
 			<Option target="chapter1"/>
 		</Unit>
 		<Unit filename="/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.8 abcExceptionChar.cpp">
+			<Option target="chapter1"/>
+		</Unit>
+		<Unit filename="/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.8 sum.cpp">
+			<Option target="chapter1"/>
+		</Unit>
+		<Unit filename="/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.9 rSum.cpp">
 			<Option target="chapter1"/>
 		</Unit>
 		<Unit filename="/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/CMakeLists.txt">

@@ -6,7 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.8 abcExceptionChar.cpp
+/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.7 factorial.cpp
+iostream
+-
+
+/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.8 sum.cpp
 iostream
 -
 
