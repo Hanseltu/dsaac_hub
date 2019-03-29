@@ -96,11 +96,81 @@ CMakeFiles/chapter1.dir/1.3_abcTemplate.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/chapter1.dir/1.3_abcTemplate.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.3 abcTemplate.cpp" -o CMakeFiles/chapter1.dir/1.3_abcTemplate.cpp.s
 
+CMakeFiles/chapter1.dir/1.4_abcRef.cpp.o: CMakeFiles/chapter1.dir/flags.make
+CMakeFiles/chapter1.dir/1.4_abcRef.cpp.o: ../1.4\ abcRef.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/chapter1.dir/1.4_abcRef.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/chapter1.dir/1.4_abcRef.cpp.o -c "/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.4 abcRef.cpp"
+
+CMakeFiles/chapter1.dir/1.4_abcRef.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/chapter1.dir/1.4_abcRef.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.4 abcRef.cpp" > CMakeFiles/chapter1.dir/1.4_abcRef.cpp.i
+
+CMakeFiles/chapter1.dir/1.4_abcRef.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/chapter1.dir/1.4_abcRef.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.4 abcRef.cpp" -o CMakeFiles/chapter1.dir/1.4_abcRef.cpp.s
+
+CMakeFiles/chapter1.dir/1.5_abcConstRef.cpp.o: CMakeFiles/chapter1.dir/flags.make
+CMakeFiles/chapter1.dir/1.5_abcConstRef.cpp.o: ../1.5\ abcConstRef.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/chapter1.dir/1.5_abcConstRef.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/chapter1.dir/1.5_abcConstRef.cpp.o -c "/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.5 abcConstRef.cpp"
+
+CMakeFiles/chapter1.dir/1.5_abcConstRef.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/chapter1.dir/1.5_abcConstRef.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.5 abcConstRef.cpp" > CMakeFiles/chapter1.dir/1.5_abcConstRef.cpp.i
+
+CMakeFiles/chapter1.dir/1.5_abcConstRef.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/chapter1.dir/1.5_abcConstRef.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.5 abcConstRef.cpp" -o CMakeFiles/chapter1.dir/1.5_abcConstRef.cpp.s
+
+CMakeFiles/chapter1.dir/1.6_abcGeneral.cpp.o: CMakeFiles/chapter1.dir/flags.make
+CMakeFiles/chapter1.dir/1.6_abcGeneral.cpp.o: ../1.6\ abcGeneral.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/chapter1.dir/1.6_abcGeneral.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/chapter1.dir/1.6_abcGeneral.cpp.o -c "/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.6 abcGeneral.cpp"
+
+CMakeFiles/chapter1.dir/1.6_abcGeneral.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/chapter1.dir/1.6_abcGeneral.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.6 abcGeneral.cpp" > CMakeFiles/chapter1.dir/1.6_abcGeneral.cpp.i
+
+CMakeFiles/chapter1.dir/1.6_abcGeneral.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/chapter1.dir/1.6_abcGeneral.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.6 abcGeneral.cpp" -o CMakeFiles/chapter1.dir/1.6_abcGeneral.cpp.s
+
+CMakeFiles/chapter1.dir/1.7_noSwap.cpp.o: CMakeFiles/chapter1.dir/flags.make
+CMakeFiles/chapter1.dir/1.7_noSwap.cpp.o: ../1.7\ noSwap.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/chapter1.dir/1.7_noSwap.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/chapter1.dir/1.7_noSwap.cpp.o -c "/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.7 noSwap.cpp"
+
+CMakeFiles/chapter1.dir/1.7_noSwap.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/chapter1.dir/1.7_noSwap.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.7 noSwap.cpp" > CMakeFiles/chapter1.dir/1.7_noSwap.cpp.i
+
+CMakeFiles/chapter1.dir/1.7_noSwap.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/chapter1.dir/1.7_noSwap.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.7 noSwap.cpp" -o CMakeFiles/chapter1.dir/1.7_noSwap.cpp.s
+
+CMakeFiles/chapter1.dir/1.8_abcExceptionChar.cpp.o: CMakeFiles/chapter1.dir/flags.make
+CMakeFiles/chapter1.dir/1.8_abcExceptionChar.cpp.o: ../1.8\ abcExceptionChar.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/chapter1.dir/1.8_abcExceptionChar.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/chapter1.dir/1.8_abcExceptionChar.cpp.o -c "/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.8 abcExceptionChar.cpp"
+
+CMakeFiles/chapter1.dir/1.8_abcExceptionChar.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/chapter1.dir/1.8_abcExceptionChar.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.8 abcExceptionChar.cpp" > CMakeFiles/chapter1.dir/1.8_abcExceptionChar.cpp.i
+
+CMakeFiles/chapter1.dir/1.8_abcExceptionChar.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/chapter1.dir/1.8_abcExceptionChar.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.8 abcExceptionChar.cpp" -o CMakeFiles/chapter1.dir/1.8_abcExceptionChar.cpp.s
+
 # Object files for target chapter1
 chapter1_OBJECTS = \
 "CMakeFiles/chapter1.dir/1.1_abcInt.cpp.o" \
 "CMakeFiles/chapter1.dir/1.2_abcFloat.cpp.o" \
-"CMakeFiles/chapter1.dir/1.3_abcTemplate.cpp.o"
+"CMakeFiles/chapter1.dir/1.3_abcTemplate.cpp.o" \
+"CMakeFiles/chapter1.dir/1.4_abcRef.cpp.o" \
+"CMakeFiles/chapter1.dir/1.5_abcConstRef.cpp.o" \
+"CMakeFiles/chapter1.dir/1.6_abcGeneral.cpp.o" \
+"CMakeFiles/chapter1.dir/1.7_noSwap.cpp.o" \
+"CMakeFiles/chapter1.dir/1.8_abcExceptionChar.cpp.o"
 
 # External object files for target chapter1
 chapter1_EXTERNAL_OBJECTS =
@@ -108,9 +178,14 @@ chapter1_EXTERNAL_OBJECTS =
 chapter1: CMakeFiles/chapter1.dir/1.1_abcInt.cpp.o
 chapter1: CMakeFiles/chapter1.dir/1.2_abcFloat.cpp.o
 chapter1: CMakeFiles/chapter1.dir/1.3_abcTemplate.cpp.o
+chapter1: CMakeFiles/chapter1.dir/1.4_abcRef.cpp.o
+chapter1: CMakeFiles/chapter1.dir/1.5_abcConstRef.cpp.o
+chapter1: CMakeFiles/chapter1.dir/1.6_abcGeneral.cpp.o
+chapter1: CMakeFiles/chapter1.dir/1.7_noSwap.cpp.o
+chapter1: CMakeFiles/chapter1.dir/1.8_abcExceptionChar.cpp.o
 chapter1: CMakeFiles/chapter1.dir/build.make
 chapter1: CMakeFiles/chapter1.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable chapter1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable chapter1"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/chapter1.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

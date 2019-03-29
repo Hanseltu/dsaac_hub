@@ -89,6 +89,21 @@
 		<Unit filename="/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.3 abcTemplate.cpp">
 			<Option target="chapter1"/>
 		</Unit>
+		<Unit filename="/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.4 abcRef.cpp">
+			<Option target="chapter1"/>
+		</Unit>
+		<Unit filename="/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.5 abcConstRef.cpp">
+			<Option target="chapter1"/>
+		</Unit>
+		<Unit filename="/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.6 abcGeneral.cpp">
+			<Option target="chapter1"/>
+		</Unit>
+		<Unit filename="/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.7 noSwap.cpp">
+			<Option target="chapter1"/>
+		</Unit>
+		<Unit filename="/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.8 abcExceptionChar.cpp">
+			<Option target="chapter1"/>
+		</Unit>
 		<Unit filename="/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

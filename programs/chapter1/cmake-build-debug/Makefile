@@ -204,6 +204,141 @@ chapter1/fast:
 	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.3_abcTemplate.cpp.s
 .PHONY : 1.3_abcTemplate.cpp.s
 
+1.4_abcRef.o: 1.4_abcRef.cpp.o
+
+.PHONY : 1.4_abcRef.o
+
+# target to build an object file
+1.4_abcRef.cpp.o:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.4_abcRef.cpp.o
+.PHONY : 1.4_abcRef.cpp.o
+
+1.4_abcRef.i: 1.4_abcRef.cpp.i
+
+.PHONY : 1.4_abcRef.i
+
+# target to preprocess a source file
+1.4_abcRef.cpp.i:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.4_abcRef.cpp.i
+.PHONY : 1.4_abcRef.cpp.i
+
+1.4_abcRef.s: 1.4_abcRef.cpp.s
+
+.PHONY : 1.4_abcRef.s
+
+# target to generate assembly for a file
+1.4_abcRef.cpp.s:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.4_abcRef.cpp.s
+.PHONY : 1.4_abcRef.cpp.s
+
+1.5_abcConstRef.o: 1.5_abcConstRef.cpp.o
+
+.PHONY : 1.5_abcConstRef.o
+
+# target to build an object file
+1.5_abcConstRef.cpp.o:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.5_abcConstRef.cpp.o
+.PHONY : 1.5_abcConstRef.cpp.o
+
+1.5_abcConstRef.i: 1.5_abcConstRef.cpp.i
+
+.PHONY : 1.5_abcConstRef.i
+
+# target to preprocess a source file
+1.5_abcConstRef.cpp.i:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.5_abcConstRef.cpp.i
+.PHONY : 1.5_abcConstRef.cpp.i
+
+1.5_abcConstRef.s: 1.5_abcConstRef.cpp.s
+
+.PHONY : 1.5_abcConstRef.s
+
+# target to generate assembly for a file
+1.5_abcConstRef.cpp.s:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.5_abcConstRef.cpp.s
+.PHONY : 1.5_abcConstRef.cpp.s
+
+1.6_abcGeneral.o: 1.6_abcGeneral.cpp.o
+
+.PHONY : 1.6_abcGeneral.o
+
+# target to build an object file
+1.6_abcGeneral.cpp.o:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.6_abcGeneral.cpp.o
+.PHONY : 1.6_abcGeneral.cpp.o
+
+1.6_abcGeneral.i: 1.6_abcGeneral.cpp.i
+
+.PHONY : 1.6_abcGeneral.i
+
+# target to preprocess a source file
+1.6_abcGeneral.cpp.i:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.6_abcGeneral.cpp.i
+.PHONY : 1.6_abcGeneral.cpp.i
+
+1.6_abcGeneral.s: 1.6_abcGeneral.cpp.s
+
+.PHONY : 1.6_abcGeneral.s
+
+# target to generate assembly for a file
+1.6_abcGeneral.cpp.s:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.6_abcGeneral.cpp.s
+.PHONY : 1.6_abcGeneral.cpp.s
+
+1.7_noSwap.o: 1.7_noSwap.cpp.o
+
+.PHONY : 1.7_noSwap.o
+
+# target to build an object file
+1.7_noSwap.cpp.o:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.7_noSwap.cpp.o
+.PHONY : 1.7_noSwap.cpp.o
+
+1.7_noSwap.i: 1.7_noSwap.cpp.i
+
+.PHONY : 1.7_noSwap.i
+
+# target to preprocess a source file
+1.7_noSwap.cpp.i:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.7_noSwap.cpp.i
+.PHONY : 1.7_noSwap.cpp.i
+
+1.7_noSwap.s: 1.7_noSwap.cpp.s
+
+.PHONY : 1.7_noSwap.s
+
+# target to generate assembly for a file
+1.7_noSwap.cpp.s:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.7_noSwap.cpp.s
+.PHONY : 1.7_noSwap.cpp.s
+
+1.8_abcExceptionChar.o: 1.8_abcExceptionChar.cpp.o
+
+.PHONY : 1.8_abcExceptionChar.o
+
+# target to build an object file
+1.8_abcExceptionChar.cpp.o:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.8_abcExceptionChar.cpp.o
+.PHONY : 1.8_abcExceptionChar.cpp.o
+
+1.8_abcExceptionChar.i: 1.8_abcExceptionChar.cpp.i
+
+.PHONY : 1.8_abcExceptionChar.i
+
+# target to preprocess a source file
+1.8_abcExceptionChar.cpp.i:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.8_abcExceptionChar.cpp.i
+.PHONY : 1.8_abcExceptionChar.cpp.i
+
+1.8_abcExceptionChar.s: 1.8_abcExceptionChar.cpp.s
+
+.PHONY : 1.8_abcExceptionChar.s
+
+# target to generate assembly for a file
+1.8_abcExceptionChar.cpp.s:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.8_abcExceptionChar.cpp.s
+.PHONY : 1.8_abcExceptionChar.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -222,6 +357,21 @@ help:
 	@echo "... 1.3_abcTemplate.o"
 	@echo "... 1.3_abcTemplate.i"
 	@echo "... 1.3_abcTemplate.s"
+	@echo "... 1.4_abcRef.o"
+	@echo "... 1.4_abcRef.i"
+	@echo "... 1.4_abcRef.s"
+	@echo "... 1.5_abcConstRef.o"
+	@echo "... 1.5_abcConstRef.i"
+	@echo "... 1.5_abcConstRef.s"
+	@echo "... 1.6_abcGeneral.o"
+	@echo "... 1.6_abcGeneral.i"
+	@echo "... 1.6_abcGeneral.s"
+	@echo "... 1.7_noSwap.o"
+	@echo "... 1.7_noSwap.i"
+	@echo "... 1.7_noSwap.s"
+	@echo "... 1.8_abcExceptionChar.o"
+	@echo "... 1.8_abcExceptionChar.i"
+	@echo "... 1.8_abcExceptionChar.s"
 .PHONY : help
 
 

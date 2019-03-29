@@ -6,11 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.2 abcFloat.cpp
-iostream
--
-
-/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.3 abcTemplate.cpp
+/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.8 abcExceptionChar.cpp
 iostream
 -
 

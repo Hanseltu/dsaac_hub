@@ -7,6 +7,11 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.1 abcInt.cpp" "/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/cmake-build-debug/CMakeFiles/chapter1.dir/1.1_abcInt.cpp.o"
   "/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.2 abcFloat.cpp" "/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/cmake-build-debug/CMakeFiles/chapter1.dir/1.2_abcFloat.cpp.o"
   "/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.3 abcTemplate.cpp" "/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/cmake-build-debug/CMakeFiles/chapter1.dir/1.3_abcTemplate.cpp.o"
+  "/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.4 abcRef.cpp" "/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/cmake-build-debug/CMakeFiles/chapter1.dir/1.4_abcRef.cpp.o"
+  "/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.5 abcConstRef.cpp" "/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/cmake-build-debug/CMakeFiles/chapter1.dir/1.5_abcConstRef.cpp.o"
+  "/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.6 abcGeneral.cpp" "/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/cmake-build-debug/CMakeFiles/chapter1.dir/1.6_abcGeneral.cpp.o"
+  "/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.7 noSwap.cpp" "/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/cmake-build-debug/CMakeFiles/chapter1.dir/1.7_noSwap.cpp.o"
+  "/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.8 abcExceptionChar.cpp" "/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/cmake-build-debug/CMakeFiles/chapter1.dir/1.8_abcExceptionChar.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
