@@ -6,7 +6,14 @@
 
 using namespace std;
 
+float abc(float a, float b, float c){
+    return a + b * c;
+}
+
+/*
 int main(){
-    cout << "hello, world!" << endl;
+    cout << abc(2,3,4) << endl;
     return 0;
 }
+ */
+

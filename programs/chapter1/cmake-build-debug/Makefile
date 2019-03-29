@@ -123,59 +123,86 @@ chapter1/fast:
 	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/build
 .PHONY : chapter1/fast
 
-1.o: 1.cpp.o
+1.1_abcInt.o: 1.1_abcInt.cpp.o
 
-.PHONY : 1.o
-
-# target to build an object file
-1.cpp.o:
-	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.cpp.o
-.PHONY : 1.cpp.o
-
-1.i: 1.cpp.i
-
-.PHONY : 1.i
-
-# target to preprocess a source file
-1.cpp.i:
-	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.cpp.i
-.PHONY : 1.cpp.i
-
-1.s: 1.cpp.s
-
-.PHONY : 1.s
-
-# target to generate assembly for a file
-1.cpp.s:
-	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.cpp.s
-.PHONY : 1.cpp.s
-
-2.o: 2.cpp.o
-
-.PHONY : 2.o
+.PHONY : 1.1_abcInt.o
 
 # target to build an object file
-2.cpp.o:
-	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/2.cpp.o
-.PHONY : 2.cpp.o
+1.1_abcInt.cpp.o:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.1_abcInt.cpp.o
+.PHONY : 1.1_abcInt.cpp.o
 
-2.i: 2.cpp.i
+1.1_abcInt.i: 1.1_abcInt.cpp.i
 
-.PHONY : 2.i
+.PHONY : 1.1_abcInt.i
 
 # target to preprocess a source file
-2.cpp.i:
-	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/2.cpp.i
-.PHONY : 2.cpp.i
+1.1_abcInt.cpp.i:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.1_abcInt.cpp.i
+.PHONY : 1.1_abcInt.cpp.i
 
-2.s: 2.cpp.s
+1.1_abcInt.s: 1.1_abcInt.cpp.s
 
-.PHONY : 2.s
+.PHONY : 1.1_abcInt.s
 
 # target to generate assembly for a file
-2.cpp.s:
-	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/2.cpp.s
-.PHONY : 2.cpp.s
+1.1_abcInt.cpp.s:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.1_abcInt.cpp.s
+.PHONY : 1.1_abcInt.cpp.s
+
+1.2_abcFloat.o: 1.2_abcFloat.cpp.o
+
+.PHONY : 1.2_abcFloat.o
+
+# target to build an object file
+1.2_abcFloat.cpp.o:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.2_abcFloat.cpp.o
+.PHONY : 1.2_abcFloat.cpp.o
+
+1.2_abcFloat.i: 1.2_abcFloat.cpp.i
+
+.PHONY : 1.2_abcFloat.i
+
+# target to preprocess a source file
+1.2_abcFloat.cpp.i:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.2_abcFloat.cpp.i
+.PHONY : 1.2_abcFloat.cpp.i
+
+1.2_abcFloat.s: 1.2_abcFloat.cpp.s
+
+.PHONY : 1.2_abcFloat.s
+
+# target to generate assembly for a file
+1.2_abcFloat.cpp.s:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.2_abcFloat.cpp.s
+.PHONY : 1.2_abcFloat.cpp.s
+
+1.3_abcTemplate.o: 1.3_abcTemplate.cpp.o
+
+.PHONY : 1.3_abcTemplate.o
+
+# target to build an object file
+1.3_abcTemplate.cpp.o:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.3_abcTemplate.cpp.o
+.PHONY : 1.3_abcTemplate.cpp.o
+
+1.3_abcTemplate.i: 1.3_abcTemplate.cpp.i
+
+.PHONY : 1.3_abcTemplate.i
+
+# target to preprocess a source file
+1.3_abcTemplate.cpp.i:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.3_abcTemplate.cpp.i
+.PHONY : 1.3_abcTemplate.cpp.i
+
+1.3_abcTemplate.s: 1.3_abcTemplate.cpp.s
+
+.PHONY : 1.3_abcTemplate.s
+
+# target to generate assembly for a file
+1.3_abcTemplate.cpp.s:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.3_abcTemplate.cpp.s
+.PHONY : 1.3_abcTemplate.cpp.s
 
 # Help Target
 help:
@@ -186,12 +213,15 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... chapter1"
-	@echo "... 1.o"
-	@echo "... 1.i"
-	@echo "... 1.s"
-	@echo "... 2.o"
-	@echo "... 2.i"
-	@echo "... 2.s"
+	@echo "... 1.1_abcInt.o"
+	@echo "... 1.1_abcInt.i"
+	@echo "... 1.1_abcInt.s"
+	@echo "... 1.2_abcFloat.o"
+	@echo "... 1.2_abcFloat.i"
+	@echo "... 1.2_abcFloat.s"
+	@echo "... 1.3_abcTemplate.o"
+	@echo "... 1.3_abcTemplate.i"
+	@echo "... 1.3_abcTemplate.s"
 .PHONY : help
 
 

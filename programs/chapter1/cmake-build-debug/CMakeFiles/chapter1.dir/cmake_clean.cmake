@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/chapter1.dir/1.cpp.o"
-  "CMakeFiles/chapter1.dir/2.cpp.o"
+  "CMakeFiles/chapter1.dir/1.1_abcInt.cpp.o"
+  "CMakeFiles/chapter1.dir/1.2_abcFloat.cpp.o"
+  "CMakeFiles/chapter1.dir/1.3_abcTemplate.cpp.o"
   "chapter1.pdb"
   "chapter1"
 )
