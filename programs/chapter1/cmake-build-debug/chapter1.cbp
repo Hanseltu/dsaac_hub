@@ -83,6 +83,12 @@
 		<Unit filename="/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.1 abcInt.cpp">
 			<Option target="chapter1"/>
 		</Unit>
+		<Unit filename="/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.10 permutations.cpp">
+			<Option target="chapter1"/>
+		</Unit>
+		<Unit filename="/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.11 inlineSwap.cpp">
+			<Option target="chapter1"/>
+		</Unit>
 		<Unit filename="/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.2 abcFloat.cpp">
 			<Option target="chapter1"/>
 		</Unit>

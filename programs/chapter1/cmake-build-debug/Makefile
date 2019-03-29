@@ -123,6 +123,60 @@ chapter1/fast:
 	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/build
 .PHONY : chapter1/fast
 
+1.10_permutations.o: 1.10_permutations.cpp.o
+
+.PHONY : 1.10_permutations.o
+
+# target to build an object file
+1.10_permutations.cpp.o:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.10_permutations.cpp.o
+.PHONY : 1.10_permutations.cpp.o
+
+1.10_permutations.i: 1.10_permutations.cpp.i
+
+.PHONY : 1.10_permutations.i
+
+# target to preprocess a source file
+1.10_permutations.cpp.i:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.10_permutations.cpp.i
+.PHONY : 1.10_permutations.cpp.i
+
+1.10_permutations.s: 1.10_permutations.cpp.s
+
+.PHONY : 1.10_permutations.s
+
+# target to generate assembly for a file
+1.10_permutations.cpp.s:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.10_permutations.cpp.s
+.PHONY : 1.10_permutations.cpp.s
+
+1.11_inlineSwap.o: 1.11_inlineSwap.cpp.o
+
+.PHONY : 1.11_inlineSwap.o
+
+# target to build an object file
+1.11_inlineSwap.cpp.o:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.11_inlineSwap.cpp.o
+.PHONY : 1.11_inlineSwap.cpp.o
+
+1.11_inlineSwap.i: 1.11_inlineSwap.cpp.i
+
+.PHONY : 1.11_inlineSwap.i
+
+# target to preprocess a source file
+1.11_inlineSwap.cpp.i:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.11_inlineSwap.cpp.i
+.PHONY : 1.11_inlineSwap.cpp.i
+
+1.11_inlineSwap.s: 1.11_inlineSwap.cpp.s
+
+.PHONY : 1.11_inlineSwap.s
+
+# target to generate assembly for a file
+1.11_inlineSwap.cpp.s:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.11_inlineSwap.cpp.s
+.PHONY : 1.11_inlineSwap.cpp.s
+
 1.1_abcInt.o: 1.1_abcInt.cpp.o
 
 .PHONY : 1.1_abcInt.o
@@ -429,6 +483,12 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... chapter1"
+	@echo "... 1.10_permutations.o"
+	@echo "... 1.10_permutations.i"
+	@echo "... 1.10_permutations.s"
+	@echo "... 1.11_inlineSwap.o"
+	@echo "... 1.11_inlineSwap.i"
+	@echo "... 1.11_inlineSwap.s"
 	@echo "... 1.1_abcInt.o"
 	@echo "... 1.1_abcInt.i"
 	@echo "... 1.1_abcInt.s"

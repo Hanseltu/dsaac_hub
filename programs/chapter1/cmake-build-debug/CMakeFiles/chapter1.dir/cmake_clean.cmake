@@ -10,6 +10,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/chapter1.dir/1.7_factorial.cpp.o"
   "CMakeFiles/chapter1.dir/1.8_sum.cpp.o"
   "CMakeFiles/chapter1.dir/1.9_rSum.cpp.o"
+  "CMakeFiles/chapter1.dir/1.10_permutations.cpp.o"
+  "CMakeFiles/chapter1.dir/1.11_inlineSwap.cpp.o"
   "chapter1.pdb"
   "chapter1"
 )
