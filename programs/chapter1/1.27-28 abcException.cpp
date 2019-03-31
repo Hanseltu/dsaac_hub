@@ -14,6 +14,7 @@ int abc(int a, int b, int c)
     return a + b * c;
 }
 
+/*
 int main()
 {
     try {cout << abc(2,0,4) << endl;}
@@ -26,3 +27,4 @@ int main()
     }
     return 0;
 }
+ */

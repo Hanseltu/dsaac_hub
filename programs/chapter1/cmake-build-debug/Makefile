@@ -123,33 +123,6 @@ chapter1/fast:
 	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/build
 .PHONY : chapter1/fast
 
-1.10_permutations.o: 1.10_permutations.cpp.o
-
-.PHONY : 1.10_permutations.o
-
-# target to build an object file
-1.10_permutations.cpp.o:
-	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.10_permutations.cpp.o
-.PHONY : 1.10_permutations.cpp.o
-
-1.10_permutations.i: 1.10_permutations.cpp.i
-
-.PHONY : 1.10_permutations.i
-
-# target to preprocess a source file
-1.10_permutations.cpp.i:
-	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.10_permutations.cpp.i
-.PHONY : 1.10_permutations.cpp.i
-
-1.10_permutations.s: 1.10_permutations.cpp.s
-
-.PHONY : 1.10_permutations.s
-
-# target to generate assembly for a file
-1.10_permutations.cpp.s:
-	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.10_permutations.cpp.s
-.PHONY : 1.10_permutations.cpp.s
-
 1.11_inlineSwap.o: 1.11_inlineSwap.cpp.o
 
 .PHONY : 1.11_inlineSwap.o
@@ -258,6 +231,33 @@ chapter1/fast:
 	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.27-28_abcException.cpp.s
 .PHONY : 1.27-28_abcException.cpp.s
 
+1.29_factorial.o: 1.29_factorial.cpp.o
+
+.PHONY : 1.29_factorial.o
+
+# target to build an object file
+1.29_factorial.cpp.o:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.29_factorial.cpp.o
+.PHONY : 1.29_factorial.cpp.o
+
+1.29_factorial.i: 1.29_factorial.cpp.i
+
+.PHONY : 1.29_factorial.i
+
+# target to preprocess a source file
+1.29_factorial.cpp.i:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.29_factorial.cpp.i
+.PHONY : 1.29_factorial.cpp.i
+
+1.29_factorial.s: 1.29_factorial.cpp.s
+
+.PHONY : 1.29_factorial.s
+
+# target to generate assembly for a file
+1.29_factorial.cpp.s:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.29_factorial.cpp.s
+.PHONY : 1.29_factorial.cpp.s
+
 1.2_abcFloat.o: 1.2_abcFloat.cpp.o
 
 .PHONY : 1.2_abcFloat.o
@@ -284,6 +284,222 @@ chapter1/fast:
 1.2_abcFloat.cpp.s:
 	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.2_abcFloat.cpp.s
 .PHONY : 1.2_abcFloat.cpp.s
+
+1.30_sum.o: 1.30_sum.cpp.o
+
+.PHONY : 1.30_sum.o
+
+# target to build an object file
+1.30_sum.cpp.o:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.30_sum.cpp.o
+.PHONY : 1.30_sum.cpp.o
+
+1.30_sum.i: 1.30_sum.cpp.i
+
+.PHONY : 1.30_sum.i
+
+# target to preprocess a source file
+1.30_sum.cpp.i:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.30_sum.cpp.i
+.PHONY : 1.30_sum.cpp.i
+
+1.30_sum.s: 1.30_sum.cpp.s
+
+.PHONY : 1.30_sum.s
+
+# target to generate assembly for a file
+1.30_sum.cpp.s:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.30_sum.cpp.s
+.PHONY : 1.30_sum.cpp.s
+
+1.31_rSum.o: 1.31_rSum.cpp.o
+
+.PHONY : 1.31_rSum.o
+
+# target to build an object file
+1.31_rSum.cpp.o:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.31_rSum.cpp.o
+.PHONY : 1.31_rSum.cpp.o
+
+1.31_rSum.i: 1.31_rSum.cpp.i
+
+.PHONY : 1.31_rSum.i
+
+# target to preprocess a source file
+1.31_rSum.cpp.i:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.31_rSum.cpp.i
+.PHONY : 1.31_rSum.cpp.i
+
+1.31_rSum.s: 1.31_rSum.cpp.s
+
+.PHONY : 1.31_rSum.s
+
+# target to generate assembly for a file
+1.31_rSum.cpp.s:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.31_rSum.cpp.s
+.PHONY : 1.31_rSum.cpp.s
+
+1.32_permutations.o: 1.32_permutations.cpp.o
+
+.PHONY : 1.32_permutations.o
+
+# target to build an object file
+1.32_permutations.cpp.o:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.32_permutations.cpp.o
+.PHONY : 1.32_permutations.cpp.o
+
+1.32_permutations.i: 1.32_permutations.cpp.i
+
+.PHONY : 1.32_permutations.i
+
+# target to preprocess a source file
+1.32_permutations.cpp.i:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.32_permutations.cpp.i
+.PHONY : 1.32_permutations.cpp.i
+
+1.32_permutations.s: 1.32_permutations.cpp.s
+
+.PHONY : 1.32_permutations.s
+
+# target to generate assembly for a file
+1.32_permutations.cpp.s:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.32_permutations.cpp.s
+.PHONY : 1.32_permutations.cpp.s
+
+1.33_sumSTL.o: 1.33_sumSTL.cpp.o
+
+.PHONY : 1.33_sumSTL.o
+
+# target to build an object file
+1.33_sumSTL.cpp.o:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.33_sumSTL.cpp.o
+.PHONY : 1.33_sumSTL.cpp.o
+
+1.33_sumSTL.i: 1.33_sumSTL.cpp.i
+
+.PHONY : 1.33_sumSTL.i
+
+# target to preprocess a source file
+1.33_sumSTL.cpp.i:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.33_sumSTL.cpp.i
+.PHONY : 1.33_sumSTL.cpp.i
+
+1.33_sumSTL.s: 1.33_sumSTL.cpp.s
+
+.PHONY : 1.33_sumSTL.s
+
+# target to generate assembly for a file
+1.33_sumSTL.cpp.s:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.33_sumSTL.cpp.s
+.PHONY : 1.33_sumSTL.cpp.s
+
+1.34_productSTL.o: 1.34_productSTL.cpp.o
+
+.PHONY : 1.34_productSTL.o
+
+# target to build an object file
+1.34_productSTL.cpp.o:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.34_productSTL.cpp.o
+.PHONY : 1.34_productSTL.cpp.o
+
+1.34_productSTL.i: 1.34_productSTL.cpp.i
+
+.PHONY : 1.34_productSTL.i
+
+# target to preprocess a source file
+1.34_productSTL.cpp.i:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.34_productSTL.cpp.i
+.PHONY : 1.34_productSTL.cpp.i
+
+1.34_productSTL.s: 1.34_productSTL.cpp.s
+
+.PHONY : 1.34_productSTL.s
+
+# target to generate assembly for a file
+1.34_productSTL.cpp.s:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.34_productSTL.cpp.s
+.PHONY : 1.34_productSTL.cpp.s
+
+1.35_permutationsSTL.o: 1.35_permutationsSTL.cpp.o
+
+.PHONY : 1.35_permutationsSTL.o
+
+# target to build an object file
+1.35_permutationsSTL.cpp.o:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.35_permutationsSTL.cpp.o
+.PHONY : 1.35_permutationsSTL.cpp.o
+
+1.35_permutationsSTL.i: 1.35_permutationsSTL.cpp.i
+
+.PHONY : 1.35_permutationsSTL.i
+
+# target to preprocess a source file
+1.35_permutationsSTL.cpp.i:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.35_permutationsSTL.cpp.i
+.PHONY : 1.35_permutationsSTL.cpp.i
+
+1.35_permutationsSTL.s: 1.35_permutationsSTL.cpp.s
+
+.PHONY : 1.35_permutationsSTL.s
+
+# target to generate assembly for a file
+1.35_permutationsSTL.cpp.s:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.35_permutationsSTL.cpp.s
+.PHONY : 1.35_permutationsSTL.cpp.s
+
+1.36_quardraticRoots.o: 1.36_quardraticRoots.cpp.o
+
+.PHONY : 1.36_quardraticRoots.o
+
+# target to build an object file
+1.36_quardraticRoots.cpp.o:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.36_quardraticRoots.cpp.o
+.PHONY : 1.36_quardraticRoots.cpp.o
+
+1.36_quardraticRoots.i: 1.36_quardraticRoots.cpp.i
+
+.PHONY : 1.36_quardraticRoots.i
+
+# target to preprocess a source file
+1.36_quardraticRoots.cpp.i:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.36_quardraticRoots.cpp.i
+.PHONY : 1.36_quardraticRoots.cpp.i
+
+1.36_quardraticRoots.s: 1.36_quardraticRoots.cpp.s
+
+.PHONY : 1.36_quardraticRoots.s
+
+# target to generate assembly for a file
+1.36_quardraticRoots.cpp.s:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.36_quardraticRoots.cpp.s
+.PHONY : 1.36_quardraticRoots.cpp.s
+
+1.37_indexOfMax.o: 1.37_indexOfMax.cpp.o
+
+.PHONY : 1.37_indexOfMax.o
+
+# target to build an object file
+1.37_indexOfMax.cpp.o:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.37_indexOfMax.cpp.o
+.PHONY : 1.37_indexOfMax.cpp.o
+
+1.37_indexOfMax.i: 1.37_indexOfMax.cpp.i
+
+.PHONY : 1.37_indexOfMax.i
+
+# target to preprocess a source file
+1.37_indexOfMax.cpp.i:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.37_indexOfMax.cpp.i
+.PHONY : 1.37_indexOfMax.cpp.i
+
+1.37_indexOfMax.s: 1.37_indexOfMax.cpp.s
+
+.PHONY : 1.37_indexOfMax.s
+
+# target to generate assembly for a file
+1.37_indexOfMax.cpp.s:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.37_indexOfMax.cpp.s
+.PHONY : 1.37_indexOfMax.cpp.s
 
 1.3_abcTemplate.o: 1.3_abcTemplate.cpp.o
 
@@ -393,33 +609,6 @@ chapter1/fast:
 	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.6_abcGeneral.cpp.s
 .PHONY : 1.6_abcGeneral.cpp.s
 
-1.7_factorial.o: 1.7_factorial.cpp.o
-
-.PHONY : 1.7_factorial.o
-
-# target to build an object file
-1.7_factorial.cpp.o:
-	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.7_factorial.cpp.o
-.PHONY : 1.7_factorial.cpp.o
-
-1.7_factorial.i: 1.7_factorial.cpp.i
-
-.PHONY : 1.7_factorial.i
-
-# target to preprocess a source file
-1.7_factorial.cpp.i:
-	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.7_factorial.cpp.i
-.PHONY : 1.7_factorial.cpp.i
-
-1.7_factorial.s: 1.7_factorial.cpp.s
-
-.PHONY : 1.7_factorial.s
-
-# target to generate assembly for a file
-1.7_factorial.cpp.s:
-	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.7_factorial.cpp.s
-.PHONY : 1.7_factorial.cpp.s
-
 1.7_noSwap.o: 1.7_noSwap.cpp.o
 
 .PHONY : 1.7_noSwap.o
@@ -447,60 +636,6 @@ chapter1/fast:
 	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.7_noSwap.cpp.s
 .PHONY : 1.7_noSwap.cpp.s
 
-1.8_sum.o: 1.8_sum.cpp.o
-
-.PHONY : 1.8_sum.o
-
-# target to build an object file
-1.8_sum.cpp.o:
-	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.8_sum.cpp.o
-.PHONY : 1.8_sum.cpp.o
-
-1.8_sum.i: 1.8_sum.cpp.i
-
-.PHONY : 1.8_sum.i
-
-# target to preprocess a source file
-1.8_sum.cpp.i:
-	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.8_sum.cpp.i
-.PHONY : 1.8_sum.cpp.i
-
-1.8_sum.s: 1.8_sum.cpp.s
-
-.PHONY : 1.8_sum.s
-
-# target to generate assembly for a file
-1.8_sum.cpp.s:
-	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.8_sum.cpp.s
-.PHONY : 1.8_sum.cpp.s
-
-1.9_rSum.o: 1.9_rSum.cpp.o
-
-.PHONY : 1.9_rSum.o
-
-# target to build an object file
-1.9_rSum.cpp.o:
-	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.9_rSum.cpp.o
-.PHONY : 1.9_rSum.cpp.o
-
-1.9_rSum.i: 1.9_rSum.cpp.i
-
-.PHONY : 1.9_rSum.i
-
-# target to preprocess a source file
-1.9_rSum.cpp.i:
-	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.9_rSum.cpp.i
-.PHONY : 1.9_rSum.cpp.i
-
-1.9_rSum.s: 1.9_rSum.cpp.s
-
-.PHONY : 1.9_rSum.s
-
-# target to generate assembly for a file
-1.9_rSum.cpp.s:
-	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.9_rSum.cpp.s
-.PHONY : 1.9_rSum.cpp.s
-
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -510,9 +645,6 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... chapter1"
-	@echo "... 1.10_permutations.o"
-	@echo "... 1.10_permutations.i"
-	@echo "... 1.10_permutations.s"
 	@echo "... 1.11_inlineSwap.o"
 	@echo "... 1.11_inlineSwap.i"
 	@echo "... 1.11_inlineSwap.s"
@@ -525,9 +657,36 @@ help:
 	@echo "... 1.27-28_abcException.o"
 	@echo "... 1.27-28_abcException.i"
 	@echo "... 1.27-28_abcException.s"
+	@echo "... 1.29_factorial.o"
+	@echo "... 1.29_factorial.i"
+	@echo "... 1.29_factorial.s"
 	@echo "... 1.2_abcFloat.o"
 	@echo "... 1.2_abcFloat.i"
 	@echo "... 1.2_abcFloat.s"
+	@echo "... 1.30_sum.o"
+	@echo "... 1.30_sum.i"
+	@echo "... 1.30_sum.s"
+	@echo "... 1.31_rSum.o"
+	@echo "... 1.31_rSum.i"
+	@echo "... 1.31_rSum.s"
+	@echo "... 1.32_permutations.o"
+	@echo "... 1.32_permutations.i"
+	@echo "... 1.32_permutations.s"
+	@echo "... 1.33_sumSTL.o"
+	@echo "... 1.33_sumSTL.i"
+	@echo "... 1.33_sumSTL.s"
+	@echo "... 1.34_productSTL.o"
+	@echo "... 1.34_productSTL.i"
+	@echo "... 1.34_productSTL.s"
+	@echo "... 1.35_permutationsSTL.o"
+	@echo "... 1.35_permutationsSTL.i"
+	@echo "... 1.35_permutationsSTL.s"
+	@echo "... 1.36_quardraticRoots.o"
+	@echo "... 1.36_quardraticRoots.i"
+	@echo "... 1.36_quardraticRoots.s"
+	@echo "... 1.37_indexOfMax.o"
+	@echo "... 1.37_indexOfMax.i"
+	@echo "... 1.37_indexOfMax.s"
 	@echo "... 1.3_abcTemplate.o"
 	@echo "... 1.3_abcTemplate.i"
 	@echo "... 1.3_abcTemplate.s"
@@ -540,18 +699,9 @@ help:
 	@echo "... 1.6_abcGeneral.o"
 	@echo "... 1.6_abcGeneral.i"
 	@echo "... 1.6_abcGeneral.s"
-	@echo "... 1.7_factorial.o"
-	@echo "... 1.7_factorial.i"
-	@echo "... 1.7_factorial.s"
 	@echo "... 1.7_noSwap.o"
 	@echo "... 1.7_noSwap.i"
 	@echo "... 1.7_noSwap.s"
-	@echo "... 1.8_sum.o"
-	@echo "... 1.8_sum.i"
-	@echo "... 1.8_sum.s"
-	@echo "... 1.9_rSum.o"
-	@echo "... 1.9_rSum.i"
-	@echo "... 1.9_rSum.s"
 .PHONY : help
 
 

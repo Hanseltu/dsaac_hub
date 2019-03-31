@@ -6,3 +6,15 @@
 
 #IncludeRegexTransform: 
 
+/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.26 myException.h
+string
+-
+iostream
+-
+
+/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.37 indexOfMax.cpp
+iostream
+-
+1.26 myException.h
+/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.26 myException.h
+
