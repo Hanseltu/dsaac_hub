@@ -177,33 +177,6 @@ chapter1/fast:
 	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.11_inlineSwap.cpp.s
 .PHONY : 1.11_inlineSwap.cpp.s
 
-1.18_currency.o: 1.18_currency.cpp.o
-
-.PHONY : 1.18_currency.o
-
-# target to build an object file
-1.18_currency.cpp.o:
-	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.18_currency.cpp.o
-.PHONY : 1.18_currency.cpp.o
-
-1.18_currency.i: 1.18_currency.cpp.i
-
-.PHONY : 1.18_currency.i
-
-# target to preprocess a source file
-1.18_currency.cpp.i:
-	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.18_currency.cpp.i
-.PHONY : 1.18_currency.cpp.i
-
-1.18_currency.s: 1.18_currency.cpp.s
-
-.PHONY : 1.18_currency.s
-
-# target to generate assembly for a file
-1.18_currency.cpp.s:
-	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.18_currency.cpp.s
-.PHONY : 1.18_currency.cpp.s
-
 1.1_abcInt.o: 1.1_abcInt.cpp.o
 
 .PHONY : 1.1_abcInt.o
@@ -230,6 +203,60 @@ chapter1/fast:
 1.1_abcInt.cpp.s:
 	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.1_abcInt.cpp.s
 .PHONY : 1.1_abcInt.cpp.s
+
+1.24_currencyOverload.o: 1.24_currencyOverload.cpp.o
+
+.PHONY : 1.24_currencyOverload.o
+
+# target to build an object file
+1.24_currencyOverload.cpp.o:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.24_currencyOverload.cpp.o
+.PHONY : 1.24_currencyOverload.cpp.o
+
+1.24_currencyOverload.i: 1.24_currencyOverload.cpp.i
+
+.PHONY : 1.24_currencyOverload.i
+
+# target to preprocess a source file
+1.24_currencyOverload.cpp.i:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.24_currencyOverload.cpp.i
+.PHONY : 1.24_currencyOverload.cpp.i
+
+1.24_currencyOverload.s: 1.24_currencyOverload.cpp.s
+
+.PHONY : 1.24_currencyOverload.s
+
+# target to generate assembly for a file
+1.24_currencyOverload.cpp.s:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.24_currencyOverload.cpp.s
+.PHONY : 1.24_currencyOverload.cpp.s
+
+1.27-28_abcException.o: 1.27-28_abcException.cpp.o
+
+.PHONY : 1.27-28_abcException.o
+
+# target to build an object file
+1.27-28_abcException.cpp.o:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.27-28_abcException.cpp.o
+.PHONY : 1.27-28_abcException.cpp.o
+
+1.27-28_abcException.i: 1.27-28_abcException.cpp.i
+
+.PHONY : 1.27-28_abcException.i
+
+# target to preprocess a source file
+1.27-28_abcException.cpp.i:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.27-28_abcException.cpp.i
+.PHONY : 1.27-28_abcException.cpp.i
+
+1.27-28_abcException.s: 1.27-28_abcException.cpp.s
+
+.PHONY : 1.27-28_abcException.s
+
+# target to generate assembly for a file
+1.27-28_abcException.cpp.s:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.27-28_abcException.cpp.s
+.PHONY : 1.27-28_abcException.cpp.s
 
 1.2_abcFloat.o: 1.2_abcFloat.cpp.o
 
@@ -420,33 +447,6 @@ chapter1/fast:
 	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.7_noSwap.cpp.s
 .PHONY : 1.7_noSwap.cpp.s
 
-1.8-9_abcExceptionChar.o: 1.8-9_abcExceptionChar.cpp.o
-
-.PHONY : 1.8-9_abcExceptionChar.o
-
-# target to build an object file
-1.8-9_abcExceptionChar.cpp.o:
-	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.8-9_abcExceptionChar.cpp.o
-.PHONY : 1.8-9_abcExceptionChar.cpp.o
-
-1.8-9_abcExceptionChar.i: 1.8-9_abcExceptionChar.cpp.i
-
-.PHONY : 1.8-9_abcExceptionChar.i
-
-# target to preprocess a source file
-1.8-9_abcExceptionChar.cpp.i:
-	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.8-9_abcExceptionChar.cpp.i
-.PHONY : 1.8-9_abcExceptionChar.cpp.i
-
-1.8-9_abcExceptionChar.s: 1.8-9_abcExceptionChar.cpp.s
-
-.PHONY : 1.8-9_abcExceptionChar.s
-
-# target to generate assembly for a file
-1.8-9_abcExceptionChar.cpp.s:
-	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.8-9_abcExceptionChar.cpp.s
-.PHONY : 1.8-9_abcExceptionChar.cpp.s
-
 1.8_sum.o: 1.8_sum.cpp.o
 
 .PHONY : 1.8_sum.o
@@ -516,12 +516,15 @@ help:
 	@echo "... 1.11_inlineSwap.o"
 	@echo "... 1.11_inlineSwap.i"
 	@echo "... 1.11_inlineSwap.s"
-	@echo "... 1.18_currency.o"
-	@echo "... 1.18_currency.i"
-	@echo "... 1.18_currency.s"
 	@echo "... 1.1_abcInt.o"
 	@echo "... 1.1_abcInt.i"
 	@echo "... 1.1_abcInt.s"
+	@echo "... 1.24_currencyOverload.o"
+	@echo "... 1.24_currencyOverload.i"
+	@echo "... 1.24_currencyOverload.s"
+	@echo "... 1.27-28_abcException.o"
+	@echo "... 1.27-28_abcException.i"
+	@echo "... 1.27-28_abcException.s"
 	@echo "... 1.2_abcFloat.o"
 	@echo "... 1.2_abcFloat.i"
 	@echo "... 1.2_abcFloat.s"
@@ -543,9 +546,6 @@ help:
 	@echo "... 1.7_noSwap.o"
 	@echo "... 1.7_noSwap.i"
 	@echo "... 1.7_noSwap.s"
-	@echo "... 1.8-9_abcExceptionChar.o"
-	@echo "... 1.8-9_abcExceptionChar.i"
-	@echo "... 1.8-9_abcExceptionChar.s"
 	@echo "... 1.8_sum.o"
 	@echo "... 1.8_sum.i"
 	@echo "... 1.8_sum.s"

@@ -2,8 +2,9 @@
 // Created by tuhaoxin on 2019-03-31.
 //
 #include <iostream>
-#include "1.13-17 currency.h"
+#include "1.19-21 currencyNew.h"
 
+/*
 int main(){
 
     currency g;
@@ -69,3 +70,4 @@ int main(){
     }
     return 0;
 }
+ */

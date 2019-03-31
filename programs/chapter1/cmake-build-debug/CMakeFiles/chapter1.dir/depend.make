@@ -5,11 +5,14 @@ CMakeFiles/chapter1.dir/1.10_permutations.cpp.o: ../1.10\ permutations.cpp
 
 CMakeFiles/chapter1.dir/1.11_inlineSwap.cpp.o: ../1.11\ inlineSwap.cpp
 
-CMakeFiles/chapter1.dir/1.18_currency.cpp.o: ../1.13-17\ currency.h
-CMakeFiles/chapter1.dir/1.18_currency.cpp.o: ../1.18\ currency.cpp
-CMakeFiles/chapter1.dir/1.18_currency.cpp.o: ../1.26\ myException.h
-
 CMakeFiles/chapter1.dir/1.1_abcInt.cpp.o: ../1.1\ abcInt.cpp
+
+CMakeFiles/chapter1.dir/1.24_currencyOverload.cpp.o: ../1.24\ currencyOverload.cpp
+CMakeFiles/chapter1.dir/1.24_currencyOverload.cpp.o: ../1.25\ currencyFriend.h
+CMakeFiles/chapter1.dir/1.24_currencyOverload.cpp.o: ../1.26\ myException.h
+
+CMakeFiles/chapter1.dir/1.27-28_abcException.cpp.o: ../1.26\ myException.h
+CMakeFiles/chapter1.dir/1.27-28_abcException.cpp.o: ../1.27-28\ abcException.cpp
 
 CMakeFiles/chapter1.dir/1.2_abcFloat.cpp.o: ../1.2\ abcFloat.cpp
 
@@ -24,8 +27,6 @@ CMakeFiles/chapter1.dir/1.6_abcGeneral.cpp.o: ../1.6\ abcGeneral.cpp
 CMakeFiles/chapter1.dir/1.7_factorial.cpp.o: ../1.7\ factorial.cpp
 
 CMakeFiles/chapter1.dir/1.7_noSwap.cpp.o: ../1.7\ noSwap.cpp
-
-CMakeFiles/chapter1.dir/1.8-9_abcExceptionChar.cpp.o: ../1.8-9\ abcExceptionChar.cpp
 
 CMakeFiles/chapter1.dir/1.8_sum.cpp.o: ../1.8\ sum.cpp
 

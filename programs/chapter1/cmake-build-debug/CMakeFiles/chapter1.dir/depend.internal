@@ -5,12 +5,15 @@ CMakeFiles/chapter1.dir/1.10_permutations.cpp.o
  /Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.10 permutations.cpp
 CMakeFiles/chapter1.dir/1.11_inlineSwap.cpp.o
  /Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.11 inlineSwap.cpp
-CMakeFiles/chapter1.dir/1.18_currency.cpp.o
- /Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.13-17 currency.h
- /Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.18 currency.cpp
- /Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.26 myException.h
 CMakeFiles/chapter1.dir/1.1_abcInt.cpp.o
  /Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.1 abcInt.cpp
+CMakeFiles/chapter1.dir/1.24_currencyOverload.cpp.o
+ /Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.24 currencyOverload.cpp
+ /Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.25 currencyFriend.h
+ /Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.26 myException.h
+CMakeFiles/chapter1.dir/1.27-28_abcException.cpp.o
+ /Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.26 myException.h
+ /Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.27-28 abcException.cpp
 CMakeFiles/chapter1.dir/1.2_abcFloat.cpp.o
  /Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.2 abcFloat.cpp
 CMakeFiles/chapter1.dir/1.3_abcTemplate.cpp.o
@@ -25,8 +28,6 @@ CMakeFiles/chapter1.dir/1.7_factorial.cpp.o
  /Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.7 factorial.cpp
 CMakeFiles/chapter1.dir/1.7_noSwap.cpp.o
  /Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.7 noSwap.cpp
-CMakeFiles/chapter1.dir/1.8-9_abcExceptionChar.cpp.o
- /Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.8-9 abcExceptionChar.cpp
 CMakeFiles/chapter1.dir/1.8_sum.cpp.o
  /Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.8 sum.cpp
 CMakeFiles/chapter1.dir/1.9_rSum.cpp.o

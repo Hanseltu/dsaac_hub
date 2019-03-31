@@ -6,21 +6,3 @@
 
 #IncludeRegexTransform: 
 
-/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.13-17 currency.h
-iostream
--
-1.26 myException.h
-/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.26 myException.h
-
-/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.18 currency.cpp
-iostream
--
-1.13-17 currency.h
-/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.13-17 currency.h
-
-/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.26 myException.h
-string
--
-iostream
--
-
