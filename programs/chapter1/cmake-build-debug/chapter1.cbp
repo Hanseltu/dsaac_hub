@@ -98,6 +98,12 @@
 		<Unit filename="/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.12 delete2dArray.h">
 			<Option target="chapter1"/>
 		</Unit>
+		<Unit filename="/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.13-17 currency.h">
+			<Option target="chapter1"/>
+		</Unit>
+		<Unit filename="/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.18 currency.cpp">
+			<Option target="chapter1"/>
+		</Unit>
 		<Unit filename="/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.2 abcFloat.cpp">
 			<Option target="chapter1"/>
 		</Unit>
@@ -125,7 +131,7 @@
 		<Unit filename="/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.8 sum.cpp">
 			<Option target="chapter1"/>
 		</Unit>
-		<Unit filename="/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.8-1.9 abcExceptionChar.cpp">
+		<Unit filename="/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.8-9 abcExceptionChar.cpp">
 			<Option target="chapter1"/>
 		</Unit>
 		<Unit filename="/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.9 rSum.cpp">

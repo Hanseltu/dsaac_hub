@@ -12,18 +12,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7cdd65ae-d8d0-4cd5-abf4-4e46610a2104" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1.12 delete2dArray.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.26 myException.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.13-17 currency.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.18 currency.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.10 permutations.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1.10 permutations.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.12 make2dArray.h" beforeDir="false" afterPath="$PROJECT_DIR$/1.10 make2dArray.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.13 make2dArrayNoCatch.h" beforeDir="false" afterPath="$PROJECT_DIR$/1.11 make2dArrayNoCatch.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.8 abcExceptionChar.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1.8-1.9 abcExceptionChar.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.8-1.9 abcExceptionChar.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1.8-9 abcExceptionChar.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chapter1.dir/1.10_permutations.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chapter1.dir/1.10_permutations.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chapter1.dir/1.8_abcExceptionChar.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chapter1.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chapter1.dir/CXX.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chapter1.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chapter1.dir/DependInfo.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chapter1.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chapter1.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chapter1.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chapter1.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chapter1.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chapter1.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chapter1.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chapter1.dir/depend.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chapter1.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chapter1.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chapter1.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chapter1.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/chapter1.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/chapter1.cbp" afterDir="false" />
     </list>
@@ -49,13 +54,37 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1.26 myException.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="142" column="68" lean-forward="true" selection-start-line="142" selection-start-column="68" selection-end-line="142" selection-end-column="68" />
+            <state relative-caret-position="334">
+              <caret line="150" column="2" selection-start-line="150" selection-start-column="2" selection-end-line="150" selection-end-column="2" />
               <folding>
                 <element signature="e#118#135#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1.13-17 currency.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="317">
+              <caret line="51" column="60" selection-start-line="51" selection-start-column="60" selection-end-line="51" selection-end-column="60" />
+              <folding>
+                <element signature="e#118#137#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1.18 currency.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1434">
+              <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+              <folding>
+                <element signature="e#44#63#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -88,6 +117,8 @@
         <option value="$PROJECT_DIR$/1.10 permutations.cpp" />
         <option value="$PROJECT_DIR$/1.12 delete2dArray.h" />
         <option value="$PROJECT_DIR$/1.26 myException.h" />
+        <option value="$PROJECT_DIR$/1.18 currency.cpp" />
+        <option value="$PROJECT_DIR$/1.13-17 currency.h" />
       </list>
     </option>
   </component>
@@ -148,19 +179,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553783594334</updated>
-      <workItem from="1553783595472" duration="10213000" />
+      <workItem from="1553783595472" duration="14761000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10213000" />
+    <option name="totallyTimeSpent" value="14761000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.115879826" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.115879826" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="CMake" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -170,7 +201,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -317,7 +348,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.8-1.9 abcExceptionChar.cpp">
+    <entry file="file://$PROJECT_DIR$/1.8-9 abcExceptionChar.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
@@ -336,10 +367,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1.26 myException.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="142" column="68" lean-forward="true" selection-start-line="142" selection-start-column="68" selection-end-line="142" selection-end-column="68" />
+        <state relative-caret-position="334">
+          <caret line="150" column="2" selection-start-line="150" selection-start-column="2" selection-end-line="150" selection-end-column="2" />
           <folding>
             <element signature="e#118#135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.13-17 currency.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="51" column="60" selection-start-line="51" selection-start-column="60" selection-end-line="51" selection-end-column="60" />
+          <folding>
+            <element signature="e#118#137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.18 currency.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1434">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <element signature="e#44#63#0" expanded="true" />
           </folding>
         </state>
       </provider>

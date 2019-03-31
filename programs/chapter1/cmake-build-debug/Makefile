@@ -177,6 +177,33 @@ chapter1/fast:
 	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.11_inlineSwap.cpp.s
 .PHONY : 1.11_inlineSwap.cpp.s
 
+1.18_currency.o: 1.18_currency.cpp.o
+
+.PHONY : 1.18_currency.o
+
+# target to build an object file
+1.18_currency.cpp.o:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.18_currency.cpp.o
+.PHONY : 1.18_currency.cpp.o
+
+1.18_currency.i: 1.18_currency.cpp.i
+
+.PHONY : 1.18_currency.i
+
+# target to preprocess a source file
+1.18_currency.cpp.i:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.18_currency.cpp.i
+.PHONY : 1.18_currency.cpp.i
+
+1.18_currency.s: 1.18_currency.cpp.s
+
+.PHONY : 1.18_currency.s
+
+# target to generate assembly for a file
+1.18_currency.cpp.s:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.18_currency.cpp.s
+.PHONY : 1.18_currency.cpp.s
+
 1.1_abcInt.o: 1.1_abcInt.cpp.o
 
 .PHONY : 1.1_abcInt.o
@@ -393,32 +420,32 @@ chapter1/fast:
 	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.7_noSwap.cpp.s
 .PHONY : 1.7_noSwap.cpp.s
 
-1.8-1.9_abcExceptionChar.o: 1.8-1.9_abcExceptionChar.cpp.o
+1.8-9_abcExceptionChar.o: 1.8-9_abcExceptionChar.cpp.o
 
-.PHONY : 1.8-1.9_abcExceptionChar.o
+.PHONY : 1.8-9_abcExceptionChar.o
 
 # target to build an object file
-1.8-1.9_abcExceptionChar.cpp.o:
-	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.8-1.9_abcExceptionChar.cpp.o
-.PHONY : 1.8-1.9_abcExceptionChar.cpp.o
+1.8-9_abcExceptionChar.cpp.o:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.8-9_abcExceptionChar.cpp.o
+.PHONY : 1.8-9_abcExceptionChar.cpp.o
 
-1.8-1.9_abcExceptionChar.i: 1.8-1.9_abcExceptionChar.cpp.i
+1.8-9_abcExceptionChar.i: 1.8-9_abcExceptionChar.cpp.i
 
-.PHONY : 1.8-1.9_abcExceptionChar.i
+.PHONY : 1.8-9_abcExceptionChar.i
 
 # target to preprocess a source file
-1.8-1.9_abcExceptionChar.cpp.i:
-	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.8-1.9_abcExceptionChar.cpp.i
-.PHONY : 1.8-1.9_abcExceptionChar.cpp.i
+1.8-9_abcExceptionChar.cpp.i:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.8-9_abcExceptionChar.cpp.i
+.PHONY : 1.8-9_abcExceptionChar.cpp.i
 
-1.8-1.9_abcExceptionChar.s: 1.8-1.9_abcExceptionChar.cpp.s
+1.8-9_abcExceptionChar.s: 1.8-9_abcExceptionChar.cpp.s
 
-.PHONY : 1.8-1.9_abcExceptionChar.s
+.PHONY : 1.8-9_abcExceptionChar.s
 
 # target to generate assembly for a file
-1.8-1.9_abcExceptionChar.cpp.s:
-	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.8-1.9_abcExceptionChar.cpp.s
-.PHONY : 1.8-1.9_abcExceptionChar.cpp.s
+1.8-9_abcExceptionChar.cpp.s:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.8-9_abcExceptionChar.cpp.s
+.PHONY : 1.8-9_abcExceptionChar.cpp.s
 
 1.8_sum.o: 1.8_sum.cpp.o
 
@@ -489,6 +516,9 @@ help:
 	@echo "... 1.11_inlineSwap.o"
 	@echo "... 1.11_inlineSwap.i"
 	@echo "... 1.11_inlineSwap.s"
+	@echo "... 1.18_currency.o"
+	@echo "... 1.18_currency.i"
+	@echo "... 1.18_currency.s"
 	@echo "... 1.1_abcInt.o"
 	@echo "... 1.1_abcInt.i"
 	@echo "... 1.1_abcInt.s"
@@ -513,9 +543,9 @@ help:
 	@echo "... 1.7_noSwap.o"
 	@echo "... 1.7_noSwap.i"
 	@echo "... 1.7_noSwap.s"
-	@echo "... 1.8-1.9_abcExceptionChar.o"
-	@echo "... 1.8-1.9_abcExceptionChar.i"
-	@echo "... 1.8-1.9_abcExceptionChar.s"
+	@echo "... 1.8-9_abcExceptionChar.o"
+	@echo "... 1.8-9_abcExceptionChar.i"
+	@echo "... 1.8-9_abcExceptionChar.s"
 	@echo "... 1.8_sum.o"
 	@echo "... 1.8_sum.i"
 	@echo "... 1.8_sum.s"
