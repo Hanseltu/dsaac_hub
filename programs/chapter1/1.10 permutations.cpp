@@ -23,7 +23,7 @@ void permutations(T list[], int k, int m){
     }
 }
 
-
+/*
 int main(){
     char a[] = {'1', '2', '3', '4'};
 
@@ -37,3 +37,4 @@ int main(){
     permutations(a, 0, 3);
     return 0;
 }
+*/

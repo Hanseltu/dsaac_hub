@@ -6,7 +6,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/chapter1.dir/1.5_abcConstRef.cpp.o"
   "CMakeFiles/chapter1.dir/1.6_abcGeneral.cpp.o"
   "CMakeFiles/chapter1.dir/1.7_noSwap.cpp.o"
-  "CMakeFiles/chapter1.dir/1.8_abcExceptionChar.cpp.o"
+  "CMakeFiles/chapter1.dir/1.8-1.9_abcExceptionChar.cpp.o"
   "CMakeFiles/chapter1.dir/1.7_factorial.cpp.o"
   "CMakeFiles/chapter1.dir/1.8_sum.cpp.o"
   "CMakeFiles/chapter1.dir/1.9_rSum.cpp.o"

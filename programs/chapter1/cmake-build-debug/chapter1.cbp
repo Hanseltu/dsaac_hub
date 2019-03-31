@@ -83,19 +83,25 @@
 		<Unit filename="/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.1 abcInt.cpp">
 			<Option target="chapter1"/>
 		</Unit>
+		<Unit filename="/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.10 make2dArray.h">
+			<Option target="chapter1"/>
+		</Unit>
 		<Unit filename="/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.10 permutations.cpp">
 			<Option target="chapter1"/>
 		</Unit>
 		<Unit filename="/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.11 inlineSwap.cpp">
 			<Option target="chapter1"/>
 		</Unit>
-		<Unit filename="/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.12 make2dArray.h">
+		<Unit filename="/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.11 make2dArrayNoCatch.h">
 			<Option target="chapter1"/>
 		</Unit>
-		<Unit filename="/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.13 make2dArrayNoCatch.h">
+		<Unit filename="/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.12 delete2dArray.h">
 			<Option target="chapter1"/>
 		</Unit>
 		<Unit filename="/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.2 abcFloat.cpp">
+			<Option target="chapter1"/>
+		</Unit>
+		<Unit filename="/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.26 myException.h">
 			<Option target="chapter1"/>
 		</Unit>
 		<Unit filename="/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.3 abcTemplate.cpp">
@@ -116,10 +122,10 @@
 		<Unit filename="/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.7 noSwap.cpp">
 			<Option target="chapter1"/>
 		</Unit>
-		<Unit filename="/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.8 abcExceptionChar.cpp">
+		<Unit filename="/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.8 sum.cpp">
 			<Option target="chapter1"/>
 		</Unit>
-		<Unit filename="/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.8 sum.cpp">
+		<Unit filename="/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.8-1.9 abcExceptionChar.cpp">
 			<Option target="chapter1"/>
 		</Unit>
 		<Unit filename="/Users/tuhaoxin/github/dsaac_hub/programs/chapter1/1.9 rSum.cpp">

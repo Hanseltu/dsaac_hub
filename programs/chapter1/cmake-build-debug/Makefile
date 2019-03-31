@@ -393,32 +393,32 @@ chapter1/fast:
 	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.7_noSwap.cpp.s
 .PHONY : 1.7_noSwap.cpp.s
 
-1.8_abcExceptionChar.o: 1.8_abcExceptionChar.cpp.o
+1.8-1.9_abcExceptionChar.o: 1.8-1.9_abcExceptionChar.cpp.o
 
-.PHONY : 1.8_abcExceptionChar.o
+.PHONY : 1.8-1.9_abcExceptionChar.o
 
 # target to build an object file
-1.8_abcExceptionChar.cpp.o:
-	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.8_abcExceptionChar.cpp.o
-.PHONY : 1.8_abcExceptionChar.cpp.o
+1.8-1.9_abcExceptionChar.cpp.o:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.8-1.9_abcExceptionChar.cpp.o
+.PHONY : 1.8-1.9_abcExceptionChar.cpp.o
 
-1.8_abcExceptionChar.i: 1.8_abcExceptionChar.cpp.i
+1.8-1.9_abcExceptionChar.i: 1.8-1.9_abcExceptionChar.cpp.i
 
-.PHONY : 1.8_abcExceptionChar.i
+.PHONY : 1.8-1.9_abcExceptionChar.i
 
 # target to preprocess a source file
-1.8_abcExceptionChar.cpp.i:
-	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.8_abcExceptionChar.cpp.i
-.PHONY : 1.8_abcExceptionChar.cpp.i
+1.8-1.9_abcExceptionChar.cpp.i:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.8-1.9_abcExceptionChar.cpp.i
+.PHONY : 1.8-1.9_abcExceptionChar.cpp.i
 
-1.8_abcExceptionChar.s: 1.8_abcExceptionChar.cpp.s
+1.8-1.9_abcExceptionChar.s: 1.8-1.9_abcExceptionChar.cpp.s
 
-.PHONY : 1.8_abcExceptionChar.s
+.PHONY : 1.8-1.9_abcExceptionChar.s
 
 # target to generate assembly for a file
-1.8_abcExceptionChar.cpp.s:
-	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.8_abcExceptionChar.cpp.s
-.PHONY : 1.8_abcExceptionChar.cpp.s
+1.8-1.9_abcExceptionChar.cpp.s:
+	$(MAKE) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/1.8-1.9_abcExceptionChar.cpp.s
+.PHONY : 1.8-1.9_abcExceptionChar.cpp.s
 
 1.8_sum.o: 1.8_sum.cpp.o
 
@@ -513,9 +513,9 @@ help:
 	@echo "... 1.7_noSwap.o"
 	@echo "... 1.7_noSwap.i"
 	@echo "... 1.7_noSwap.s"
-	@echo "... 1.8_abcExceptionChar.o"
-	@echo "... 1.8_abcExceptionChar.i"
-	@echo "... 1.8_abcExceptionChar.s"
+	@echo "... 1.8-1.9_abcExceptionChar.o"
+	@echo "... 1.8-1.9_abcExceptionChar.i"
+	@echo "... 1.8-1.9_abcExceptionChar.s"
 	@echo "... 1.8_sum.o"
 	@echo "... 1.8_sum.i"
 	@echo "... 1.8_sum.s"
