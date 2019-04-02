@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tuhaoxin/github/dsaac_hub/programs/chapter2/2.1 sequentialSearch.cpp
+iostream
+-
+iostream
+-
+algorithm
+-
+
