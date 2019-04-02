@@ -11,12 +11,14 @@ int sequentialSearch(T a[], int n, const T& x)
     // Return position if found; return -1 otherwise.
     int i;
     for (i = 0; i < n && a[i] != x; i++);
+
     if (i == n)
         return -1;
     else
         return i;
 }
 
+/*
 int main()
 {
     int a[7] = {1, 5, 3, 4, 7, 2, 0};
@@ -33,3 +35,4 @@ int main()
     cout << "8 is at position " << sequentialSearch(a, 7, 8) << endl;
     return 0;
 }
+ */

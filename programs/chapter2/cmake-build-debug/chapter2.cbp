@@ -83,6 +83,9 @@
 		<Unit filename="/Users/tuhaoxin/github/dsaac_hub/programs/chapter2/2.1 sequentialSearch.cpp">
 			<Option target="chapter2"/>
 		</Unit>
+		<Unit filename="/Users/tuhaoxin/github/dsaac_hub/programs/chapter2/2.2 rSequentialSearch.cpp">
+			<Option target="chapter2"/>
+		</Unit>
 		<Unit filename="/Users/tuhaoxin/github/dsaac_hub/programs/chapter2/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/chapter2.dir/2.1_sequentialSearch.cpp.o"
+  "CMakeFiles/chapter2.dir/2.2_rSequentialSearch.cpp.o"
   "chapter2.pdb"
   "chapter2"
 )

@@ -3,4 +3,4 @@ project(chapter2)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(chapter2 "2.1 sequentialSearch.cpp")
+add_executable(chapter2 "2.1 sequentialSearch.cpp" "2.2 rSequentialSearch.cpp")

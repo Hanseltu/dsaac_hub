@@ -150,6 +150,33 @@ chapter2/fast:
 	$(MAKE) -f CMakeFiles/chapter2.dir/build.make CMakeFiles/chapter2.dir/2.1_sequentialSearch.cpp.s
 .PHONY : 2.1_sequentialSearch.cpp.s
 
+2.2_rSequentialSearch.o: 2.2_rSequentialSearch.cpp.o
+
+.PHONY : 2.2_rSequentialSearch.o
+
+# target to build an object file
+2.2_rSequentialSearch.cpp.o:
+	$(MAKE) -f CMakeFiles/chapter2.dir/build.make CMakeFiles/chapter2.dir/2.2_rSequentialSearch.cpp.o
+.PHONY : 2.2_rSequentialSearch.cpp.o
+
+2.2_rSequentialSearch.i: 2.2_rSequentialSearch.cpp.i
+
+.PHONY : 2.2_rSequentialSearch.i
+
+# target to preprocess a source file
+2.2_rSequentialSearch.cpp.i:
+	$(MAKE) -f CMakeFiles/chapter2.dir/build.make CMakeFiles/chapter2.dir/2.2_rSequentialSearch.cpp.i
+.PHONY : 2.2_rSequentialSearch.cpp.i
+
+2.2_rSequentialSearch.s: 2.2_rSequentialSearch.cpp.s
+
+.PHONY : 2.2_rSequentialSearch.s
+
+# target to generate assembly for a file
+2.2_rSequentialSearch.cpp.s:
+	$(MAKE) -f CMakeFiles/chapter2.dir/build.make CMakeFiles/chapter2.dir/2.2_rSequentialSearch.cpp.s
+.PHONY : 2.2_rSequentialSearch.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -162,6 +189,9 @@ help:
 	@echo "... 2.1_sequentialSearch.o"
 	@echo "... 2.1_sequentialSearch.i"
 	@echo "... 2.1_sequentialSearch.s"
+	@echo "... 2.2_rSequentialSearch.o"
+	@echo "... 2.2_rSequentialSearch.i"
+	@echo "... 2.2_rSequentialSearch.s"
 .PHONY : help
 
 
